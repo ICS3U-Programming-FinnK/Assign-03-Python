@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Created by: Finn Kitor
 # Created on: November 1st, 2023
-# this program converts from degrees Celcius to Fahrenheit and Kelvin.
+# this program converts from degrees Celsius to Fahrenheit and Kelvin.
 
 
 def main():
