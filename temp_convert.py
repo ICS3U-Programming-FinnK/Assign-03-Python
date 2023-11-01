@@ -16,7 +16,7 @@ def main():
         print("Error, please enter a valid numerical value for degrees Celsius.")
     # terminal will display the degrees Celsius and the degrees Fahrenheit and Kelvin
     else:
-        print("The temprature in Celsius is = {} degrees".format(celsius))
+        print("The temperature in Celsius is = {} degrees".format(celsius))
         print("The temperature in Fahrenheit is = {} degrees".format(fahrenheit))
         print("The temperature in Kelvin is = {} degrees".format(kelvin))
 
